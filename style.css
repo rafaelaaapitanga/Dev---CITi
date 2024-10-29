@@ -1,0 +1,18 @@
+body {
+    background-image: url('imagens/background.jpg');
+    background-size: 1500px 1800px;
+    background-repeat: repeat;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div, h1, h2, p {
+    text-align: center;
+}
+
+img {
+    border-radius: 20px;
+}
+
+.highlight {
+    background-color: rgb(168, 191, 235);
+}
